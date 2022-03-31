@@ -13,7 +13,7 @@
 ## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%">
   
 - 👋 Hi, I’m Muzeyyen
--  I’m Mechanical Engineer MBA
+-  I’m Mechanical Engineer (MBA)
 -  I’m interested in IT
 -  I’m currently learning AWS and DevOps
 -  I’m looking to collaborate on DevOps
